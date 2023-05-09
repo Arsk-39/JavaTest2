@@ -1,6 +1,6 @@
 package jp.co.aforce.test;
 
-public class PracticeTest8 {
+public class Main {
 	public static void main(String[] args) {
 	printHello hello = new printHello();
 	printRandomMessage Rmessage = new printRandomMessage();
