@@ -17,8 +17,8 @@ public class Person {
 		return age;
 	}
 	public boolean isAdult() {
-		int value = age;
-		if(value >=20) {
+		int person = age;
+		if(person >=20) {
 			System.out.println("true");
 		}else {
 			System.out.println("false");
